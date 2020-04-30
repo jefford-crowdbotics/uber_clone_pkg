@@ -1,0 +1,10 @@
+certifi==2020.4.5.1
+chardet==3.0.4
+geographiclib==1.50
+geopy==1.21.0
+idna==2.9
+osmapi==1.2.2
+requests==2.23.0
+uber-clone-pkg-CROWDBOTICS @ file:///home/drei/Projects/Crowdbotics/dev/uber-clone/dist/uber_clone_pkg_CROWDBOTICS-0.0.1-py3-none-any.whl
+urllib3==1.25.9
+
