@@ -8,6 +8,12 @@ To install module locally, go to the `dist/` directory and run.
 python3 -m pip install uber_clone_pkg_CROWDBOTICS-0.0.1-py3-none-any.whl
 ```
 
+To install module through Github, run:
+
+```
+python3 -m pip install git+https://github.com/jefford-crowdbotics/cb_taxi.git
+```
+
 # Testing
 
 Test files are located in `tests/` folder
