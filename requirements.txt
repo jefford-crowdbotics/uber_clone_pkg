@@ -6,5 +6,5 @@ idna==2.9
 osmapi==1.2.2
 requests==2.23.0
 uber-clone-pkg-CROWDBOTICS @ file:///home/drei/Projects/Crowdbotics/dev/uber-clone/dist/uber_clone_pkg_CROWDBOTICS-0.0.1-py3-none-any.whl
-urllib3==1.25.9
+urllib3==1.26.5
 
